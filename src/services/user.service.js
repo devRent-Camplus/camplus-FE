@@ -2,7 +2,7 @@
 import axios from 'axios';
 import authHeader from './auth-header';
 
-const API_BASE_URL = 'http://127.0.0.1:8000/';
+const API_BASE_URL = 'http://camplus.pythonanywhere.com/';
 const posts = 'post/';
 const comments = 'comments/';
 
